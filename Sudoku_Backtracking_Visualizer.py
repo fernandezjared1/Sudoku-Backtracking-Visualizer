@@ -1,4 +1,4 @@
-#This program requires the user to manually enter a valig Sudoku Grid in the program code itself
+#This program requires the user to manually enter a valid Sudoku Grid in the program code itself
 #The program then only visualizes the backtracking algorithm used to solve the puzzle
 #If the entered sudoku gris in the code in invalid, the program just runs indefintely, so therfore a Valid grid must be entered
 
